@@ -20,7 +20,7 @@
 **Do not forget to follow me on Github ✌️**
 
 
-
+[🖤⃝🇸𝙾𝙲𝙸𝙰𝙻 🖤⃝🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲™ 𝙽𝚁𝙳☜](https://t.me/social_mechanic_1997)
 
 ## Support & Updates 🎑
 <a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TECHNOLOGY_CORNER_1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
