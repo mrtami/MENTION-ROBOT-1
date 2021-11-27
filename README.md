@@ -17,7 +17,7 @@
 ### 👉🏼 Credits and Other
 - [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-TEAM-NRD) for this Project ;)
 
-# Do not forget to follow me on Github ✌️**
+# Do not forget to follow me on Github 
 
 [🖤⃝🇸𝙾𝙲𝙸𝙰𝙻 🖤⃝🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲™ 𝙽𝚁𝙳☜](https://t.me/social_mechanic_1997)
 
