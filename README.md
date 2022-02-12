@@ -12,7 +12,7 @@
 - Telegram Library: Telethon.
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-TEAM-NRD/MENTION-ROBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT)
 
 ### 👉🏼 Credits and Other
 - [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-TEAM-NRD) for this Project ;)
