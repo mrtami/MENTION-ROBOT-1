@@ -14,6 +14,9 @@
 ### 🚀 Deploy to heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT)
 
+###🎯 Deploy on Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT)
+
 ### 👉🏼 Credits and Other
 - [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-TEAM-NRD) for this Project ;)
 
